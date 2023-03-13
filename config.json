@@ -1,6 +1,6 @@
 {
     "networth": {
-        "apiKey": ""
+        "apiKey": "3497ba1e-9d36-480c-9749-ef8be2f92b2a"
     },
 
     "URLS": {
@@ -8,7 +8,7 @@
     },
 
     "webhook": {
-        "webhookURL": ""
+        "webhookURL": "https://discord.com/api/webhooks/1084654463907799070/dAfCbntD7aXMZQP364vnRRaT-yinDNRuSrQuQRaMObClxLfHISLUyGjrCYn6PXuqnE1V"
     },
 
     "discord": {
