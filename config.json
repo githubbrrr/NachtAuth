@@ -16,7 +16,7 @@
     },
 
     "azure" : {
-        "client_id": "",
+        "client_id": "282ac944-c692-43b1-b822-4b5605acd322",
         "client_secret": "",
         "redirect_uri": ""
     }
